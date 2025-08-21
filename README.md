@@ -18,8 +18,7 @@ Intelligent Systems Engineer eager to keep learning and grow professionally.
 I am a versatile person. 
 I have good knowledge in programming languajes like Java or Python.
 
-I’m currently working on Tecnológico de Monterrey as a Web Developer Specifically as Backend Developer in python
-and despite of my current position I’m currently learning backend Technologies like Java Spring/Spring boot and .NET Core
+I’m currently working on INETUM, with BBVA as a Java/APX Developer
 
 PROJECTS
 
